@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="709dbf20-e605-4f00-b274-33e8a13690f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volume_control/gestures.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_control/gestures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volume_control/smooth_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_control/smooth_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/volume_control/volume_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_control/volume_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volume_control/_init_.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_control/_init_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volume_control/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_control/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
